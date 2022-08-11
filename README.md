@@ -2,12 +2,5 @@
 
 Here is where I am putting random things I am working. Feel free to comment, fork...etc 
 
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seangrant82/seangrant82.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Sean's GitHub stats](https://github-readme-stats.vercel.app/api?username=seangrant82&theme=monokai&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seangrant82&langs_count=8&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
